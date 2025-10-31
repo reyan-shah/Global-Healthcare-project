@@ -1,0 +1,81 @@
+Disease_Name,age_group
+"Alzheimer's Disease",61+
+Asthma,61+
+Cancer,61+
+Cholera,61+
+COVID-19,61+
+Dengue,61+
+Diabetes,61+
+Ebola,61+
+Hepatitis,61+
+HIV/AIDS,61+
+Hypertension,61+
+Influenza,61+
+Leprosy,61+
+Malaria,61+
+Measles,61+
+"Parkinson's Disease",61+
+Polio,61+
+Rabies,61+
+Tuberculosis,61+
+Zika,61+
+"Alzheimer's Disease",36-60
+Asthma,36-60
+Cancer,36-60
+Cholera,36-60
+COVID-19,36-60
+Dengue,36-60
+Diabetes,36-60
+Ebola,36-60
+Hepatitis,36-60
+HIV/AIDS,36-60
+Hypertension,36-60
+Influenza,36-60
+Leprosy,36-60
+Malaria,36-60
+Measles,36-60
+"Parkinson's Disease",36-60
+Polio,36-60
+Rabies,36-60
+Tuberculosis,36-60
+Zika,36-60
+"Alzheimer's Disease",19-35
+Asthma,19-35
+Cancer,19-35
+Cholera,19-35
+COVID-19,19-35
+Dengue,19-35
+Diabetes,19-35
+Ebola,19-35
+Hepatitis,19-35
+HIV/AIDS,19-35
+Hypertension,19-35
+Influenza,19-35
+Leprosy,19-35
+Malaria,19-35
+Measles,19-35
+"Parkinson's Disease",19-35
+Polio,19-35
+Rabies,19-35
+Tuberculosis,19-35
+Zika,19-35
+"Alzheimer's Disease",0-18
+Asthma,0-18
+Cancer,0-18
+Cholera,0-18
+COVID-19,0-18
+Dengue,0-18
+Diabetes,0-18
+Ebola,0-18
+Hepatitis,0-18
+HIV/AIDS,0-18
+Hypertension,0-18
+Influenza,0-18
+Leprosy,0-18
+Malaria,0-18
+Measles,0-18
+"Parkinson's Disease",0-18
+Polio,0-18
+Rabies,0-18
+Tuberculosis,0-18
+Zika,0-18
